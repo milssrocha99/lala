@@ -1019,9 +1019,8 @@ body {
 
      .verseText h2{
         font-size:12px;
-        margin-bottom:20px;
+        margin-bottom:-30px;
         letter-spacing:1px;
-        transform: translateY(-30px);
     }
 
     .verseText p{
@@ -1033,8 +1032,7 @@ body {
 
     .verseText span{
         font-size:9px;
-        margin-top:10px;
-        transform: translateY(30px);
+        margin-top:40px;
     }
 
 }
