@@ -987,56 +987,6 @@ body {
     color:#6d4518;
 }
 
-@media (max-width:480px){
-
-    #verseScreen{
-
-        padding:25px 15px 50px;
-    }
-
-    #verseScreen h1{
-
-        font-size:23px;
-
-        margin-bottom:10px;
-    }
-
-    .papers{
-
-        max-width:320px;
-
-        gap:3px;
-    }
-
-    .verseText{
-
-        top:20%;          /* desce o texto */
-
-        width:90%;        /* mais largo */
-
-        height:70%;
-    }
-
-     .verseText h2{
-           font-size:12px;
-    margin-bottom:-30px;
-    letter-spacing:1px;
-    margin-top:-50px; /* sobe 50px */
-    }
-
-    .verseText p{
-
-        font-size:11px;
-
-        line-height:1.2;
-    }
-
-    .verseText span{
-        font-size:9px;
-        margin-top:80px;
-    }
-
-}
 
 #returnHome{
 
@@ -1112,8 +1062,7 @@ body {
     transform:translateX(-50%) translateY(3px);
 }
 
-@media(max-width:480px){
-
+@media(max-width:480p
     #returnHome{
 
         width:145px;
