@@ -1005,21 +1005,21 @@ body {
 
         max-width:320px;
 
-        gap:25px;
+        gap:5px;
     }
 
     .verseText{
 
         top:20%;          /* desce o texto */
 
-        width:74%;        /* mais largo */
+        width:90%;        /* mais largo */
 
-        height:65%;
+        height:70%;
     }
 
     .verseText h2{
 
-        font-size:16px;
+        font-size:12px;
 
         margin-bottom:10px;
 
@@ -1035,18 +1035,9 @@ body {
 
     .verseText span{
 
-        font-size:10px;
+        font-size:9px;
 
         margin-top:12px;
-    }
-
-    #backButton{
-
-        width:90%;
-
-        max-width:300px;
-
-        padding:14px 0;
     }
 
 }
