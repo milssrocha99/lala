@@ -1021,7 +1021,7 @@ body {
      .verseText h2{
            font-size:12px;
     letter-spacing:1px;
-    margin-top:-20px; /* sobe 50px */
+    margin-top:-15px; /* sobe 50px */
     }
 
     .verseText p{
@@ -1033,7 +1033,8 @@ body {
 
     .verseText span{
         font-size:9px;
-        margin-top:10px;
+        display: block;
+        margin-top:90px;
     }
 
 }
